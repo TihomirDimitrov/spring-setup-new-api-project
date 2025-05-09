@@ -18,8 +18,14 @@ target/
 *.iws
 *.iml
 *.ipr
+*.class
+*.log
+compiler.xml
+uiDesigner.xml
+.idea/
 
-### NetBeans ###
+
+### NetBeans ###git rm --cached .idea/compiler.xml
 /nbproject/private/
 /nbbuild/
 /dist/

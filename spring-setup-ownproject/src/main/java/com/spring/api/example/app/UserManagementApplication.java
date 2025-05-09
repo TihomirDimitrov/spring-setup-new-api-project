@@ -1,13 +1,13 @@
-package com.spring.api.example.spring_setup_ownproject;
+package com.spring.api.example.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSetupOwnprojectApplication {
+public class UserManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSetupOwnprojectApplication.class, args);
+		SpringApplication.run(UserManagementApplication.class, args);
 	}
 
 }

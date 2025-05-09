@@ -1,4 +1,4 @@
-package com.spring.api.example.spring_setup_ownproject;
+package com.spring.api.example.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
