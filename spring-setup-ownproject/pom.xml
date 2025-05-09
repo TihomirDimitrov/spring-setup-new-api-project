@@ -8,27 +8,42 @@
         <version>3.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.spring.api.example</groupId>
     <artifactId>spring-setup-ownproject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-setup-ownproject</name>
     <description>Demo project for Spring Boot created by Tihomir</description>
-    <url/>
+    <url>https://github.com/TihomirDimitrov/spring-setup-new-api-project</url>
+
     <licenses>
-        <license/>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
     </licenses>
+
+
     <developers>
-        <developer/>
+        <developer>
+            <id>tihomir</id>
+            <name>Tihomir Dimitrov</name>
+            <email>tihod@abv.bg</email>
+        </developer>
     </developers>
+
     <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
+        <connection>scm:git:git://github.com/TihomirDimitrov/spring-setup-new-api-project.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:TihomirDimitrov/spring-setup-new-api-project.git</developerConnection>
+        <url>https://github.com/TihomirDimitrov/spring-setup-new-api-project</url>
+        <tag>HEAD</tag>
     </scm>
+
+
     <properties>
         <java.version>20</java.version>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
