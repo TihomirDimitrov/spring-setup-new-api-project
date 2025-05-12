@@ -20,7 +20,8 @@ target/
 *.ipr
 *.class
 *.log
-compiler.xml
+.idea/compiler.xml
+.idea/misc.xml
 uiDesigner.xml
 .idea/
 
